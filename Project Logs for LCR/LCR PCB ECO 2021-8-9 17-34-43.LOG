@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NetC36_2 Pin=LCD1-5
+Added Pin To Net: NetName=NetC36_2 Pin=U5-14
+Change Net Name : Old Net Name=NetC36_2 New Net Name=RESET

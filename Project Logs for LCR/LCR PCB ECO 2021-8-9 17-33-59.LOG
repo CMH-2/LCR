@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=RESET Pin=C36-2
+Added Pin To Net: NetName=NetC36_2 Pin=C36-2
+Added Pin To Net: NetName=NetC36_2 Pin=R22-2
+Added Pin To Net: NetName=NetC36_2 Pin=S1-1
+Added Net: Name=NetC36_2

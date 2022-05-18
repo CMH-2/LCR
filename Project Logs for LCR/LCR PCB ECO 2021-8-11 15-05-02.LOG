@@ -1,0 +1,107 @@
+Removed Pin From Net: NetName=AD8253_IN Pin=U5-23
+Added Component: Designator=C15_6(0603_C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_58143.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C57112"; VariantName = "[No Variations]"
+Added Component: Designator=C97_6(0603_C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_15331.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C14663"; VariantName = "[No Variations]"
+Added Component: Designator=C98_6(0603_C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_15331.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C14663"; VariantName = "[No Variations]"
+Added Component: Designator=C99_6(0603_C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_15331.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C14663"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_6(SOT23-5N)
+Add component (AddParameter): Name = "BOM名称"; Value = "轨至轨运放"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R69_6(0603_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_23508.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C22781"; VariantName = "[No Variations]"
+Added Component: Designator=R70_6(0603_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_23508.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C22781"; VariantName = "[No Variations]"
+Added Component: Designator=R71_6(0603_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_23508.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C22781"; VariantName = "[No Variations]"
+Added Component: Designator=R72_6(0603_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_23508.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C22781"; VariantName = "[No Variations]"
+Added Component: Designator=R73_6(0603_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_23508.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C22781"; VariantName = "[No Variations]"
+Added Component: Designator=R74_6(0603_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_23508.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C22781"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C15_6-1
+Added Pin To Net: NetName=+5 Pin=C15_6-2
+Added Pin To Net: NetName=GND Pin=C97_6-2
+Added Pin To Net: NetName=AD8253_IN Pin=C98_6-1
+Added Pin To Net: NetName=GND Pin=IC1_6-2
+Added Pin To Net: NetName=+5 Pin=IC1_6-5
+Added Pin To Net: NetName=+5 Pin=R69_6-2
+Added Pin To Net: NetName=GND Pin=R71_6-1
+Added Pin To Net: NetName=GND Pin=R72_6-1
+Added Pin To Net: NetName=NetC97_6_1 Pin=C97_6-1
+Added Pin To Net: NetName=NetC97_6_1 Pin=IC1_6-3
+Added Pin To Net: NetName=NetC97_6_1 Pin=R69_6-1
+Added Pin To Net: NetName=NetC97_6_1 Pin=R71_6-2
+Added Net: Name=NetC97_6_1
+Added Pin To Net: NetName=NetC98_6_2 Pin=C98_6-2
+Added Pin To Net: NetName=NetC98_6_2 Pin=R73_6-1
+Added Net: Name=NetC98_6_2
+Added Pin To Net: NetName=NetC99_6_1 Pin=C99_6-1
+Added Pin To Net: NetName=NetC99_6_1 Pin=IC1_6-1
+Added Pin To Net: NetName=NetC99_6_1 Pin=R70_6-1
+Added Pin To Net: NetName=NetC99_6_1 Pin=R74_6-2
+Added Net: Name=NetC99_6_1
+Added Pin To Net: NetName=NetC99_6_2 Pin=C99_6-2
+Added Pin To Net: NetName=NetC99_6_2 Pin=IC1_6-4
+Added Pin To Net: NetName=NetC99_6_2 Pin=R73_6-2
+Added Pin To Net: NetName=NetC99_6_2 Pin=R74_6-1
+Added Net: Name=NetC99_6_2
+Added Pin To Net: NetName=PA1 Pin=R70_6-2
+Added Pin To Net: NetName=PA1 Pin=R72_6-2
+Added Pin To Net: NetName=PA1 Pin=U5-23
+Added Net: Name=PA1
+Added Class: Name=6

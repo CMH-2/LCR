@@ -1,0 +1,7 @@
+Added Component: Designator=P2(tow_pad_top)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=IN1 Pin=P2-2
+Added Member To Class: ClassName=U_AD8253 Member=Component P2 PORT_Header 2

@@ -1,0 +1,133 @@
+Removed Pin From Net: NetName=GND Pin=C36-1
+Removed Pin From Net: NetName=GND Pin=C38-2
+Removed Pin From Net: NetName=GND Pin=C39-1
+Removed Pin From Net: NetName=GND Pin=C40-1
+Removed Pin From Net: NetName=GND Pin=C41-1
+Removed Pin From Net: NetName=GND Pin=C42-2
+Removed Pin From Net: NetName=GND Pin=C43-2
+Removed Pin From Net: NetName=GND Pin=C44-2
+Removed Pin From Net: NetName=GND Pin=C45-2
+Removed Pin From Net: NetName=GND Pin=C48-2
+Removed Pin From Net: NetName=GND Pin=C49-2
+Removed Pin From Net: NetName=GND Pin=C50-2
+Removed Pin From Net: NetName=GND Pin=C51-2
+Removed Pin From Net: NetName=GND Pin=C52-2
+Removed Pin From Net: NetName=GND Pin=C53-2
+Removed Pin From Net: NetName=GND Pin=C54-2
+Removed Pin From Net: NetName=GND Pin=C55-2
+Removed Pin From Net: NetName=GND Pin=C56-2
+Removed Pin From Net: NetName=GND Pin=C57-2
+Removed Pin From Net: NetName=GND Pin=C58-2
+Removed Pin From Net: NetName=GND Pin=C59-2
+Removed Pin From Net: NetName=GND Pin=JTAG/SW1-3
+Removed Pin From Net: NetName=GND Pin=K1-2
+Removed Pin From Net: NetName=GND Pin=K2-2
+Removed Pin From Net: NetName=GND Pin=K3-2
+Removed Pin From Net: NetName=GND Pin=K4-2
+Removed Pin From Net: NetName=GND Pin=K5-2
+Removed Pin From Net: NetName=GND Pin=K6-2
+Removed Pin From Net: NetName=GND Pin=K7-2
+Removed Pin From Net: NetName=GND Pin=K8-2
+Removed Pin From Net: NetName=GND Pin=K9-2
+Removed Pin From Net: NetName=GND Pin=K10-2
+Removed Pin From Net: NetName=GND Pin=LCD1-22
+Removed Pin From Net: NetName=GND Pin=LCD1-26
+Removed Pin From Net: NetName=GND Pin=LCD1-27
+Removed Pin From Net: NetName=GND Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=R23-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Pin From Net: NetName=GND Pin=U5-10
+Removed Pin From Net: NetName=GND Pin=U5-26
+Removed Pin From Net: NetName=GND Pin=U5-49
+Removed Pin From Net: NetName=GND Pin=U5-74
+Removed Pin From Net: NetName=GND Pin=U5-99
+Removed Pin From Net: NetName=GND Pin=U10-7
+Removed Pin From Net: NetName=GND Pin=Y1-2
+Removed Pin From Net: NetName=GND Pin=Y1-4
+Removed Pin From Net: NetName=GND Pin=Y2-2
+Added Component: Designator=R75(0603-1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R76(0603-1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R77(0603-1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R78(0603-1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND Pin=C36-1
+Added Pin To Net: NetName=DGND Pin=C38-2
+Added Pin To Net: NetName=DGND Pin=C39-1
+Added Pin To Net: NetName=DGND Pin=C40-1
+Added Pin To Net: NetName=DGND Pin=C41-1
+Added Pin To Net: NetName=DGND Pin=C42-2
+Added Pin To Net: NetName=DGND Pin=C43-2
+Added Pin To Net: NetName=DGND Pin=C44-2
+Added Pin To Net: NetName=DGND Pin=C45-2
+Added Pin To Net: NetName=DGND Pin=C48-2
+Added Pin To Net: NetName=DGND Pin=C49-2
+Added Pin To Net: NetName=DGND Pin=C50-2
+Added Pin To Net: NetName=DGND Pin=C51-2
+Added Pin To Net: NetName=DGND Pin=C52-2
+Added Pin To Net: NetName=DGND Pin=C53-2
+Added Pin To Net: NetName=DGND Pin=C54-2
+Added Pin To Net: NetName=DGND Pin=C55-2
+Added Pin To Net: NetName=DGND Pin=C56-2
+Added Pin To Net: NetName=DGND Pin=C57-2
+Added Pin To Net: NetName=DGND Pin=C58-2
+Added Pin To Net: NetName=DGND Pin=C59-2
+Added Pin To Net: NetName=DGND Pin=JTAG/SW1-3
+Added Pin To Net: NetName=DGND Pin=K1-2
+Added Pin To Net: NetName=DGND Pin=K2-2
+Added Pin To Net: NetName=DGND Pin=K3-2
+Added Pin To Net: NetName=DGND Pin=K4-2
+Added Pin To Net: NetName=DGND Pin=K5-2
+Added Pin To Net: NetName=DGND Pin=K6-2
+Added Pin To Net: NetName=DGND Pin=K7-2
+Added Pin To Net: NetName=DGND Pin=K8-2
+Added Pin To Net: NetName=DGND Pin=K9-2
+Added Pin To Net: NetName=DGND Pin=K10-2
+Added Pin To Net: NetName=DGND Pin=LCD1-22
+Added Pin To Net: NetName=DGND Pin=LCD1-26
+Added Pin To Net: NetName=DGND Pin=LCD1-27
+Added Pin To Net: NetName=DGND Pin=P1-3
+Added Pin To Net: NetName=DGND Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R75-1
+Added Pin To Net: NetName=DGND Pin=R75-2
+Added Pin To Net: NetName=GND Pin=R76-1
+Added Pin To Net: NetName=DGND Pin=R76-2
+Added Pin To Net: NetName=GND Pin=R77-1
+Added Pin To Net: NetName=DGND Pin=R77-2
+Added Pin To Net: NetName=GND Pin=R78-1
+Added Pin To Net: NetName=DGND Pin=R78-2
+Added Pin To Net: NetName=DGND Pin=S1-2
+Added Pin To Net: NetName=DGND Pin=U5-26
+Added Pin To Net: NetName=DGND Pin=U5-49
+Added Pin To Net: NetName=DGND Pin=U5-74
+Added Pin To Net: NetName=DGND Pin=U5-99
+Added Pin To Net: NetName=DGND Pin=U10-7
+Added Pin To Net: NetName=DGND Pin=Y1-2
+Added Pin To Net: NetName=DGND Pin=Y1-4
+Added Pin To Net: NetName=DGND Pin=Y2-2
+Added Member To Class: ClassName=U_Core_h750vb Member=Component R75 10K
+Added Member To Class: ClassName=U_Core_h750vb Member=Component R76 10K
+Added Member To Class: ClassName=U_Core_h750vb Member=Component R77 10K
+Added Member To Class: ClassName=U_Core_h750vb Member=Component R78 10K

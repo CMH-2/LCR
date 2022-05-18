@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=PE2 Pin=U5-1
+Removed Pin From Net: NetName=PE3 Pin=U5-2
+Removed Pin From Net: NetName=PE4 Pin=U5-3
+Removed Pin From Net: NetName=PE5 Pin=U5-4
+Removed Pin From Net: NetName=PC13 Pin=U5-7
+Removed Pin From Net: NetName=PC14 Pin=U5-8
+Removed Pin From Net: NetName=PE1 Pin=U5-98
+Added Pin To Net: NetName=PE3 Pin=U5-1
+Added Pin To Net: NetName=PE4 Pin=U5-2
+Added Pin To Net: NetName=PC13 Pin=U5-3
+Added Pin To Net: NetName=PC14 Pin=U5-4
+Added Pin To Net: NetName=PE5 Pin=U5-7
+Added Pin To Net: NetName=PE1 Pin=U5-8
+Added Pin To Net: NetName=PE2 Pin=U5-98
+Change Net Name : Old Net Name=PC13 New Net Name=PE4
+Change Net Name : Old Net Name=PC14 New Net Name=PE5
+Change Net Name : Old Net Name=PE1 New Net Name=PC14
+Change Net Name : Old Net Name=PE2 New Net Name=PE1
+Change Net Name : Old Net Name=PE3 New Net Name=PE2
+Change Net Name : Old Net Name=PE4 New Net Name=PE3
+Change Net Name : Old Net Name=PE5 New Net Name=PC13

@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=K1 Pin=C61-2
+Removed Pin From Net: NetName=K2 Pin=C64-1
+Removed Pin From Net: NetName=K1 Pin=R39-2
+Removed Pin From Net: NetName=K2 Pin=R42-1
+Removed Pin From Net: NetName=K1 Pin=SW2-1
+Removed Pin From Net: NetName=K5 Pin=U5-1
+Removed Pin From Net: NetName=PE6 Pin=U5-5
+Removed Pin From Net: NetName=PC15 Pin=U5-9
+Removed Pin From Net: NetName=PC10 Pin=U5-78
+Removed Pin From Net: NetName=PC11 Pin=U5-79
+Removed Pin From Net: NetName=PC12 Pin=U5-80
+Removed Pin From Net: NetName=K1 Pin=U5-93
+Removed Pin From Net: NetName=K3 Pin=U5-95
+Removed Pin From Net: NetName=K2 Pin=U5-96
+Removed Pin From Net: NetName=K4 Pin=U5-97
+Removed Pin From Net: NetName=K6 Pin=U5-98
+Added Pin To Net: NetName=K4 Pin=C61-2
+Added Pin To Net: NetName=K3 Pin=C63-1
+Added Pin To Net: NetName=K5 Pin=C64-1
+Added Pin To Net: NetName=K6 Pin=C65-1
+Added Pin To Net: NetName=K4 Pin=R39-2
+Added Pin To Net: NetName=K3 Pin=R41-2
+Added Pin To Net: NetName=K5 Pin=R42-1
+Added Pin To Net: NetName=K6 Pin=R43-2
+Added Pin To Net: NetName=K4 Pin=SW2-1
+Added Pin To Net: NetName=PC15 Pin=U5-1
+Added Pin To Net: NetName=K1 Pin=U5-77
+Added Pin To Net: NetName=K3 Pin=U5-78
+Added Pin To Net: NetName=K2 Pin=U5-79
+Added Pin To Net: NetName=K4 Pin=U5-80
+Added Pin To Net: NetName=K6 Pin=U5-92
+Added Pin To Net: NetName=K5 Pin=U5-93
+Added Pin To Net: NetName=PC10 Pin=U5-95
+Added Pin To Net: NetName=PC11 Pin=U5-96
+Added Pin To Net: NetName=PC12 Pin=U5-97
+Added Pin To Net: NetName=PE6 Pin=U5-98
+Change Net Name : Old Net Name=PC10 New Net Name=PB8
+Change Net Name : Old Net Name=PC11 New Net Name=PB9
+Change Net Name : Old Net Name=PC12 New Net Name=PE0
+Change Net Name : Old Net Name=PC15 New Net Name=PE2
+Change Net Name : Old Net Name=PE6 New Net Name=PE1
+Added Pin To Net: NetName=PC15 Pin=U5-9
+Added Net: Name=PC15
+Added Pin To Net: NetName=PE6 Pin=U5-5
+Added Net: Name=PE6

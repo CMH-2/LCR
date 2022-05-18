@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=6 Member=C15_1
+Removed Member From Class: ClassName=4 Member=C97_3
+Removed Member From Class: ClassName=2 Member=C98_1
+Removed Member From Class: ClassName=1 Member=IC1_2
+Removed Member From Class: ClassName=3 Member=IC1_5
+Removed Member From Class: ClassName=4 Member=IC1_5
+Removed Member From Class: ClassName=5 Member=IC1_6
+Removed Member From Class: ClassName=2 Member=R70_1
+Removed Member From Class: ClassName=3 Member=R71_2
+Removed Member From Class: ClassName=2 Member=R72_1
+Removed Member From Class: ClassName=6 Member=R73_3
+Removed Member From Class: ClassName=2 Member=R74_1
+Change Component Footprint: Designator=U5 Old Footprint=LQFP100 New Footprint=TQFP100_M
+Change Component Comment : Designator=U3 Old Comment=REF3040 New Comment=REF3030
+Added Member To Class: ClassName=6 Member=Component C15_6 (C15) 10nF (103) 10% 50V
+Added Member To Class: ClassName=4 Member=Component C97_4 (C97) 100nF (104) 10% 50V
+Added Member To Class: ClassName=2 Member=Component C98_2 (C98) 100nF (104) 10% 50V
+Added Member To Class: ClassName=1 Member=Component IC1_1 (IC1) SGM851
+Added Member To Class: ClassName=3 Member=Component IC1_3 (IC1) SGM851
+Added Member To Class: ClassName=4 Member=Component IC1_4 (IC1) SGM851
+Added Member To Class: ClassName=5 Member=Component IC1_5 (IC1) SGM851
+Added Member To Class: ClassName=2 Member=Component R70_2 (R70) 110¦¸ (1100) ¡À1%
+Added Member To Class: ClassName=3 Member=Component R71_3 (R71) 10k
+Added Member To Class: ClassName=2 Member=Component R72_2 (R72) 110¦¸ (1100) ¡À1%
+Added Member To Class: ClassName=6 Member=Component R73_6 (R73) 50k
+Added Member To Class: ClassName=2 Member=Component R74_2 (R74) 10k

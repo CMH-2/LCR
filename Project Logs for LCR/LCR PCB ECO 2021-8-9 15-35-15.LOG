@@ -1,0 +1,14 @@
+Added Component: Designator=M1(M3x10_L)
+Added Component: Designator=M2(M3x10_L)
+Added Component: Designator=M3(M3x10_L)
+Added Component: Designator=M4(M3x10_L)
+Added Member To Class: ClassName=U_Core_h750vb Member=Component M1 M3
+Added Member To Class: ClassName=U_Core_h750vb Member=Component M2 M3
+Added Member To Class: ClassName=U_Core_h750vb Member=Component M3
+Added Member To Class: ClassName=U_Core_h750vb Member=Component M4 M3
+Added Member To Class: ClassName=U_power Member=Component U1 »¬¶¯¿ª¹Ø
+Added Member To Class: ClassName=U_power Member=Component U2 TPS63070
+Added Member To Class: ClassName=U_power Member=Component U3 REF3040
+Added Member To Class: ClassName=U_power Member=Component U4 TPS63070
+Added Member To Class: ClassName=U_Core_h750vb Member=Component U5 STM32H750xB
+Added Member To Class: ClassName=U_AD8253 Member=Component U6 AD8253

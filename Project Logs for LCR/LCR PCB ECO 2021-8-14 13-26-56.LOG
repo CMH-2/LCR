@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VIN_S Pin=U1-3
+Change Component Designator: OldDesignator=  NewDesignator=C72
+Added Pin To Net: NetName=VIN_S Pin=U1-1

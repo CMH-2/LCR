@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VCC3.3 Pin=C46-1
+Removed Pin From Net: NetName=GND Pin=C46-2
+Removed Pin From Net: NetName=VCC3.3 Pin=C47-1
+Removed Pin From Net: NetName=GND Pin=C47-2
+Removed Pin From Net: NetName=PB15 Pin=LCD1-31
+Removed Member From Class: ClassName=U_Core_h750vb Member=C46
+Removed Member From Class: ClassName=U_Core_h750vb Member=C47
+Added Pin To Net: NetName=PB11 Pin=LCD1-31

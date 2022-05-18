@@ -1,0 +1,162 @@
+Removed Pin From Net: NetName=-5 Pin=C33-2
+Removed Pin From Net: NetName=-5 Pin=C34-2
+Removed Pin From Net: NetName=-5 Pin=C35-1
+Removed Member From Class: ClassName=1 Member=C15
+Removed Member From Class: ClassName=3 Member=C15
+Removed Member From Class: ClassName=4 Member=C15
+Removed Member From Class: ClassName=1 Member=C97
+Removed Member From Class: ClassName=3 Member=C97
+Removed Member From Class: ClassName=5 Member=C97
+Removed Member From Class: ClassName=3 Member=C98
+Removed Member From Class: ClassName=4 Member=C98
+Removed Member From Class: ClassName=5 Member=C98
+Removed Member From Class: ClassName=3 Member=C99
+Removed Member From Class: ClassName=4 Member=C99
+Removed Member From Class: ClassName=5 Member=C99
+Removed Member From Class: ClassName=1 Member=R69
+Removed Member From Class: ClassName=4 Member=R69
+Removed Member From Class: ClassName=5 Member=R69
+Removed Member From Class: ClassName=3 Member=R70
+Removed Member From Class: ClassName=4 Member=R70
+Removed Member From Class: ClassName=5 Member=R70
+Removed Member From Class: ClassName=1 Member=R71
+Removed Member From Class: ClassName=4 Member=R71
+Removed Member From Class: ClassName=5 Member=R71
+Removed Member From Class: ClassName=3 Member=R72
+Removed Member From Class: ClassName=4 Member=R72
+Removed Member From Class: ClassName=5 Member=R72
+Removed Member From Class: ClassName=1 Member=R73
+Removed Member From Class: ClassName=3 Member=R73
+Removed Member From Class: ClassName=4 Member=R73
+Removed Member From Class: ClassName=3 Member=R74
+Removed Member From Class: ClassName=4 Member=R74
+Removed Member From Class: ClassName=5 Member=R74
+Change Component Designator: OldDesignator=C15 NewDesignator=C15_1
+Change Component Designator: OldDesignator=C15 NewDesignator=C15_2
+Change Component Designator: OldDesignator=C15 NewDesignator=C15_3
+Change Component Designator: OldDesignator=C15 NewDesignator=C15_4
+Change Component Designator: OldDesignator=C15 NewDesignator=C15_5
+Change Component Designator: OldDesignator=C15 NewDesignator=C15_6
+Change Component Designator: OldDesignator=C97 NewDesignator=C97_1
+Change Component Designator: OldDesignator=C97 NewDesignator=C97_2
+Change Component Designator: OldDesignator=C97 NewDesignator=C97_3
+Change Component Designator: OldDesignator=C97 NewDesignator=C97_4
+Change Component Designator: OldDesignator=C97 NewDesignator=C97_5
+Change Component Designator: OldDesignator=C97 NewDesignator=C97_6
+Change Component Designator: OldDesignator=C98 NewDesignator=C98_1
+Change Component Designator: OldDesignator=C98 NewDesignator=C98_2
+Change Component Designator: OldDesignator=C98 NewDesignator=C98_3
+Change Component Designator: OldDesignator=C98 NewDesignator=C98_4
+Change Component Designator: OldDesignator=C98 NewDesignator=C98_5
+Change Component Designator: OldDesignator=C98 NewDesignator=C98_6
+Change Component Designator: OldDesignator=C99 NewDesignator=C99_1
+Change Component Designator: OldDesignator=C99 NewDesignator=C99_2
+Change Component Designator: OldDesignator=C99 NewDesignator=C99_3
+Change Component Designator: OldDesignator=C99 NewDesignator=C99_4
+Change Component Designator: OldDesignator=C99 NewDesignator=C99_5
+Change Component Designator: OldDesignator=C99 NewDesignator=C99_6
+Change Component Designator: OldDesignator=IC1 NewDesignator=IC1_1
+Change Component Designator: OldDesignator=IC1 NewDesignator=IC1_3
+Change Component Designator: OldDesignator=IC1_1 NewDesignator=IC1_2
+Change Component Designator: OldDesignator=IC1_3 NewDesignator=IC1_4
+Change Component Designator: OldDesignator=IC1_4 NewDesignator=IC1_5
+Change Component Designator: OldDesignator=IC1_5 NewDesignator=IC1_6
+Change Component Designator: OldDesignator=R69 NewDesignator=R69_1
+Change Component Designator: OldDesignator=R69 NewDesignator=R69_2
+Change Component Designator: OldDesignator=R69 NewDesignator=R69_3
+Change Component Designator: OldDesignator=R69 NewDesignator=R69_4
+Change Component Designator: OldDesignator=R69 NewDesignator=R69_5
+Change Component Designator: OldDesignator=R69 NewDesignator=R69_6
+Change Component Designator: OldDesignator=R70 NewDesignator=R70_1
+Change Component Designator: OldDesignator=R70 NewDesignator=R70_2
+Change Component Designator: OldDesignator=R70 NewDesignator=R70_3
+Change Component Designator: OldDesignator=R70 NewDesignator=R70_4
+Change Component Designator: OldDesignator=R70 NewDesignator=R70_5
+Change Component Designator: OldDesignator=R70 NewDesignator=R70_6
+Change Component Designator: OldDesignator=R71 NewDesignator=R71_1
+Change Component Designator: OldDesignator=R71 NewDesignator=R71_2
+Change Component Designator: OldDesignator=R71 NewDesignator=R71_3
+Change Component Designator: OldDesignator=R71 NewDesignator=R71_4
+Change Component Designator: OldDesignator=R71 NewDesignator=R71_5
+Change Component Designator: OldDesignator=R71 NewDesignator=R71_6
+Change Component Designator: OldDesignator=R72 NewDesignator=R72_1
+Change Component Designator: OldDesignator=R72 NewDesignator=R72_2
+Change Component Designator: OldDesignator=R72 NewDesignator=R72_3
+Change Component Designator: OldDesignator=R72 NewDesignator=R72_4
+Change Component Designator: OldDesignator=R72 NewDesignator=R72_5
+Change Component Designator: OldDesignator=R72 NewDesignator=R72_6
+Change Component Designator: OldDesignator=R73 NewDesignator=R73_1
+Change Component Designator: OldDesignator=R73 NewDesignator=R73_2
+Change Component Designator: OldDesignator=R73 NewDesignator=R73_3
+Change Component Designator: OldDesignator=R73 NewDesignator=R73_4
+Change Component Designator: OldDesignator=R73 NewDesignator=R73_5
+Change Component Designator: OldDesignator=R73 NewDesignator=R73_6
+Change Component Designator: OldDesignator=R74 NewDesignator=R74_1
+Change Component Designator: OldDesignator=R74 NewDesignator=R74_2
+Change Component Designator: OldDesignator=R74 NewDesignator=R74_3
+Change Component Designator: OldDesignator=R74 NewDesignator=R74_4
+Change Component Designator: OldDesignator=R74 NewDesignator=R74_5
+Change Component Designator: OldDesignator=R74 NewDesignator=R74_6
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Change Net Name : Old Net Name=NetC97_1_1 New Net Name=NetC97_2_1
+Change Net Name : Old Net Name=NetC97_2_1 New Net Name=NetC97_3_1
+Change Net Name : Old Net Name=NetC97_3_1 New Net Name=NetC97_4_1
+Change Net Name : Old Net Name=NetC97_4_1 New Net Name=NetC97_5_1
+Change Net Name : Old Net Name=NetC97_5_1 New Net Name=NetC97_6_1
+Change Net Name : Old Net Name=NetC97_6_1 New Net Name=NetC97_1_1
+Change Net Name : Old Net Name=NetC98_1_2 New Net Name=NetC98_2_2
+Change Net Name : Old Net Name=NetC98_2_2 New Net Name=NetC98_3_2
+Change Net Name : Old Net Name=NetC98_3_2 New Net Name=NetC98_4_2
+Change Net Name : Old Net Name=NetC98_4_2 New Net Name=NetC98_5_2
+Change Net Name : Old Net Name=NetC98_5_2 New Net Name=NetC98_6_2
+Change Net Name : Old Net Name=NetC98_6_2 New Net Name=NetC98_1_2
+Change Net Name : Old Net Name=NetC99_1_1 New Net Name=NetC99_2_1
+Change Net Name : Old Net Name=NetC99_1_2 New Net Name=NetC99_2_2
+Change Net Name : Old Net Name=NetC99_2_1 New Net Name=NetC99_3_1
+Change Net Name : Old Net Name=NetC99_2_2 New Net Name=NetC99_3_2
+Change Net Name : Old Net Name=NetC99_3_1 New Net Name=NetC99_4_1
+Change Net Name : Old Net Name=NetC99_3_2 New Net Name=NetC99_4_2
+Change Net Name : Old Net Name=NetC99_4_1 New Net Name=NetC99_5_1
+Change Net Name : Old Net Name=NetC99_4_2 New Net Name=NetC99_5_2
+Change Net Name : Old Net Name=NetC99_5_1 New Net Name=NetC99_6_1
+Change Net Name : Old Net Name=NetC99_5_2 New Net Name=NetC99_6_2
+Change Net Name : Old Net Name=NetC99_6_1 New Net Name=NetC99_1_1
+Change Net Name : Old Net Name=NetC99_6_2 New Net Name=NetC99_1_2
+Change Net Name : Old Net Name=SOT_23_IN_4 New Net Name=SOT_23_IN_5
+Change Net Name : Old Net Name=SOT_23_IN_5 New Net Name=SOT_23_IN_6
+Change Class Name : Old Net Name=1 New Net Name=2
+Change Class Name : Old Net Name=5 New Net Name=6
+Added Class: Name=1
+Added Class: Name=5
+Added Member To Class: ClassName=2 Member=Component C15_2 (C15) 10nF (103) 10% 50V
+Added Member To Class: ClassName=3 Member=Component C15_3 (C15) 10nF (103) 10% 50V
+Added Member To Class: ClassName=4 Member=Component C15_4 (C15) 10nF (103) 10% 50V
+Added Member To Class: ClassName=2 Member=Component C97_2 (C97) 100nF (104) 10% 50V
+Added Member To Class: ClassName=3 Member=Component C97_3 (C97) 100nF (104) 10% 50V
+Added Member To Class: ClassName=6 Member=Component C97_6 (C97) 100nF (104) 10% 50V
+Added Member To Class: ClassName=3 Member=Component C98_3 (C98) 100nF (104) 10% 50V
+Added Member To Class: ClassName=4 Member=Component C98_4 (C98) 100nF (104) 10% 50V
+Added Member To Class: ClassName=6 Member=Component C98_6 (C98) 100nF (104) 10% 50V
+Added Member To Class: ClassName=3 Member=Component C99_3 (C99) 100nF (104) 10% 50V
+Added Member To Class: ClassName=4 Member=Component C99_4 (C99) 100nF (104) 10% 50V
+Added Member To Class: ClassName=6 Member=Component C99_6 (C99) 100nF (104) 10% 50V
+Added Member To Class: ClassName=2 Member=Component R69_2 (R69) 30k
+Added Member To Class: ClassName=4 Member=Component R69_4 (R69) 30k
+Added Member To Class: ClassName=6 Member=Component R69_6 (R69) 30k
+Added Member To Class: ClassName=3 Member=Component R70_3 (R70) 110次 (1100) ㊣1%
+Added Member To Class: ClassName=4 Member=Component R70_4 (R70) 110次 (1100) ㊣1%
+Added Member To Class: ClassName=6 Member=Component R70_6 (R70) 110次 (1100) ㊣1%
+Added Member To Class: ClassName=2 Member=Component R71_2 (R71) 10k
+Added Member To Class: ClassName=4 Member=Component R71_4 (R71) 10k
+Added Member To Class: ClassName=6 Member=Component R71_6 (R71) 10k
+Added Member To Class: ClassName=3 Member=Component R72_3 (R72) 110次 (1100) ㊣1%
+Added Member To Class: ClassName=4 Member=Component R72_4 (R72) 110次 (1100) ㊣1%
+Added Member To Class: ClassName=6 Member=Component R72_6 (R72) 110次 (1100) ㊣1%
+Added Member To Class: ClassName=2 Member=Component R73_2 (R73) 50k
+Added Member To Class: ClassName=3 Member=Component R73_3 (R73) 50k
+Added Member To Class: ClassName=4 Member=Component R73_4 (R73) 50k
+Added Member To Class: ClassName=3 Member=Component R74_3 (R74) 10k
+Added Member To Class: ClassName=4 Member=Component R74_4 (R74) 10k
+Added Member To Class: ClassName=6 Member=Component R74_6 (R74) 10k
